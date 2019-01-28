@@ -1,6 +1,6 @@
 function testingSwitch()
 {
-  var nilai = 2;
+  var nilai = 10;
 
   switch(nilai)
   {
